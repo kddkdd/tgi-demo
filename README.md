@@ -1,5 +1,5 @@
-# Model
+## Finetuned Model
 Keep finetuned model in ./text-generation-interface/data/
 
-# Deploy/Inference
+## Deploy/Inference
 ./deploy.sh
